@@ -29,4 +29,4 @@ Packages: +11
 # Actual behavior
 
 * Step 3 passes by saying that lockfile is up to date
-* Step 5 says lockfile is out of date, but fails during install
+* Step 5 says lockfile is up to date, but fails during install
