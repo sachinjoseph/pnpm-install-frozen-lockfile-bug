@@ -15,6 +15,7 @@ Already up-to-date
 4. `rimraf .\node_modules\ .\pnpm-store\`
 
 5. `pnpm i -store pnpm-store --frozen-lockfile`
+
 Lockfile is up-to-date, resolution step is skipped
 Packages: +11
 +++++++++++
